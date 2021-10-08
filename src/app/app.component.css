@@ -1,0 +1,17 @@
+footer{
+  background-color: #4B0082	;
+  padding: 3px;
+  margin-bottom: auto;
+  margin-top: 15px;
+}
+
+p{
+  color: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  text-align: center;
+}
+
+a{
+  color: #FFD700;
+}
